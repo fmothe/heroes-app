@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn run co || npm run co`
+Runs the s-ui mono commit tool for easier commit messages and readability
 ### `npm start`
 
 Runs the app in the development mode.\

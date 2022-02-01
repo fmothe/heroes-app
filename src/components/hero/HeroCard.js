@@ -6,7 +6,7 @@ export const HeroCard = ({hero}) => {
 
     
   return (
-    <div className="col">
+    <div className="col animate__animated animate__fadeInRight">
       <div className="card">
         <div className="row no-gutters">
           <div className="col">
